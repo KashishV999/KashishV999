@@ -3,15 +3,16 @@
 🌱 I’m a budding coder who loves diving into the world of programming, especially in C++ and Object-Oriented design. When I'm not coding, you can find me lost in the pages of a desi romantic novel—because who doesn’t love a little drama and love?
 
 ## 🔧 Technologies & Tools
-- C++
-- C
-- JavaScript
-- Python
-- SQL
-- MongoDB
-- HTML
-- CSS
-- Linux
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- ![Kogod](https://img.shields.io/badge/-Kogod-00BFFF?style=flat-square&logo=github&logoColor=white)
 
 ## 🚀 Featured Projects
 
