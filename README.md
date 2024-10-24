@@ -24,6 +24,8 @@ Imagine a web app where you can unleash your inner DJ—well, that’s what I bu
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kashish-verma-b57b052a6/)
 
+- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KashishV999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 🎉 Fun Facts
 - I could code in C++ all day long—who needs sleep when you have Object-Oriented programming?
 - I have a serious love for fictional books, especially those desi romantic novels that make you laugh, cry, and roll your eyes at the same time. It's a guilty pleasure I can’t resist—who knew fictional 
