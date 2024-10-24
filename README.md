@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Kashish Verma
 
-🌱 I’m a budding coder who loves diving into the world of programming, especially in C++ and Object-Oriented design. When I'm not coding, you can find me lost in the pages of a desi romantic novel—because who doesn’t love a little drama and love?
+🌱 I’m a a computer science student with a passion for coding and problem-solving. I believe technology is a powerful tool for creativity, and I love transforming ideas into functional solutions.  I thrive on challenges that push me to think outside the box. My journey has taken me through various programming languages and frameworks, each adding a new brushstroke to my skill set.
 
 ## 🔧 Technologies & Tools
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
