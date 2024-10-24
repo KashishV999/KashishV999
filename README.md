@@ -12,7 +12,6 @@
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-- ![Kogod](https://img.shields.io/badge/-Kogod-00BFFF?style=flat-square&logo=github&logoColor=white)
 
 ## 🚀 Featured Projects
 
