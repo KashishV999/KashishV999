@@ -22,8 +22,7 @@ Ever thought managing a library was as easy as pie? Well, I built a C++ library 
 Imagine a web app where you can unleash your inner DJ—well, that’s what I built! Using HTML, CSS, and JavaScript, my dynamic web app showcases artist albums and lets you play songs with a simple click. Want to add a new artist? Just fill out the form, and watch the magic happen! It’s like a concert in your browser, minus the ticket fees and bad acoustics. 🎤🎧
 
 ## 🤝 Connect with Me
-- [LinkedIn](your-linkedin)
-- [Twitter](your-twitter)
+- [LinkedIn](https://www.linkedin.com/in/kashish-verma-b57b052a6/)
 
 ## 🎉 Fun Facts
 - I could code in C++ all day long—who needs sleep when you have Object-Oriented programming?
