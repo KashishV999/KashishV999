@@ -24,7 +24,7 @@ Imagine a web app where you can unleash your inner DJ—well, that’s what I bu
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kashish-verma-b57b052a6/)
 
-# 📊 GitHub Stats:
+# 📊Github Stats:
 - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KashishV999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🎉 Fun Facts
