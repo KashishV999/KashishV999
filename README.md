@@ -57,9 +57,10 @@ Unleash your inner DJ with **MelodyMix**, a dynamic music app built using **HTML
 ## 🌟 Quote of the Day
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5C9EF7&width=435&lines=Your+code+is+always+just+5+minutes+away+from+compiling..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5C9EF7&width=600&lines=Your+code+is+always+just+5+minutes+away+from+compiling..." alt="Typing SVG" />
   </a>
 </p>
+
 
 
 
