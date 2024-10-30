@@ -53,14 +53,11 @@ Unleash your inner DJ with **MelodyMix**, a dynamic music app built using **HTML
 - I'm a **fictional book lover**, especially desi romantic novels that make you laugh, cry, and occasionally roll your eyes. Fictional heartbreak is surprisingly entertaining—who knew?
 
 ---
-
 ## 🌟 Quote of the Day
 
-<p align="center">
-  <blockquote style="font-size: 24px; font-weight: bold; color: #5C9EF7; border-left: 4px solid #5C9EF7; padding-left: 10px; margin: 20px; font-style: italic;">
-    "Your code is always just 5 minutes away from compiling."
-  </blockquote>
-</p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Your%20code%20is%20always%205%20minutes%20away%20from%20compilation.&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 
 ## 📈 My Developer Journey
 
