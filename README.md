@@ -72,7 +72,7 @@
 
 
 
-## 🎶 Featured Project: MelodyMix - Music Web App
+## 🎶MelodyMix - Music Web App
 
 <div align="center">
   <table style="width: 80%; border: 2px solid #FF6F61; border-radius: 10px; padding: 20px;">
