@@ -32,8 +32,6 @@
 
 ---
 
----
-
 ## 🌟 Quote of the Day
 
 <div align="center">
