@@ -35,9 +35,7 @@
 ## 🌟 Quote of the Day
 
 <div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?quote=Your%20code%20is%20always%205%20minutes%20away%20from%20compilation.&type=horizontal&theme=dark" alt="Readme Quote">
-  </a>
 </div>
 
 
