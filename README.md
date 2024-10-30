@@ -56,8 +56,11 @@ Unleash your inner DJ with **MelodyMix**, a dynamic music app built using **HTML
 
 ## 🌟 Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <blockquote style="font-size: 1.5em; font-weight: bold; color: #5C9EF7;">
+    "Your code is always just <span style="color: #FF5722;">5 minutes away</span> from compiling."
+  </blockquote>
 </p>
+
 
 
 ## 🤝 Connect with Me
