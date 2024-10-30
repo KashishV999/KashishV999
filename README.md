@@ -56,16 +56,23 @@ Unleash your inner DJ with **MelodyMix**, a dynamic music app built using **HTML
 
 ## 🌟 Quote of the Day
 <p align="center">
-  <blockquote style="font-size: 1.5em; font-weight: bold; color: #5C9EF7;">
+  <span style="font-size: 1.5em; font-weight: bold; color: #5C9EF7; animation: pulse 2s infinite;">
     "Your code is always just <span style="color: #FF5722;">5 minutes away</span> from compiling."
-  </blockquote>
+  </span>
 </p>
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+</style>
+
 
 
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kashish-verma-b57b052a6/)
 
-[![](https://visitcount.itsvg.in/api?id=Kashish-Verma&label=Profile%20Views&color=6A5ACD&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
