@@ -44,6 +44,12 @@ Unleash your inner DJ with **MelodyMix**, a dynamic music app built using **HTML
 
 # 📊Github Stats:
 - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KashishV999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 GitHub Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KashishV999&theme=algolia&no-frame=true&no-bg=true&column=4" alt="GitHub Trophy" />
+  </a>
+</p>
 
 
 ---
