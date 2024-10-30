@@ -71,7 +71,7 @@ Unleash your inner DJ with **MelodyMix**, a dynamic music app built using **HTML
 | **2024** | Developed **SmartLib** and explored **software testing** techniques through real-world projects. |
 
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
