@@ -1,6 +1,11 @@
 <!--
 *Kashish-Verma/Kashish-Verma* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5C9EF7&width=500&lines=Computer+Science+Student;Aspiring+Software+Developer;OOP+and+C%2B%2B+Enthusiast;Web+and+Software+Tester" alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="center">
 
