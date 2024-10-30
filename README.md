@@ -32,6 +32,19 @@
 
 ---
 
+---
+
+## 🌟 Quote of the Day
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?quote=Your%20code%20is%20always%205%20minutes%20away%20from%20compilation.&type=horizontal&theme=dark" alt="Readme Quote">
+  </a>
+</div>
+
+---
+
+
 ## 🚀 Featured Projects
 
 ### 📚 Library Management System
@@ -53,9 +66,6 @@ Unleash your inner DJ with **MelodyMix**, a dynamic music app built using **HTML
 - I'm a **fictional book lover**, especially desi romantic novels that make you laugh, cry, and occasionally roll your eyes. Fictional heartbreak is surprisingly entertaining—who knew?
 
 ---
-## 🌟 Quote of the Day
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Your%20code%20is%20always%205%20minutes%20away%20from%20compilation.&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
