@@ -71,15 +71,12 @@ Unleash your inner DJ with **MelodyMix**, a dynamic music app built using **HTML
 | **2024** | Developed **SmartLib** and explored **software testing** techniques through real-world projects. |
 
 ---
-
-## 😊 What's Your Mood Today?
+## 👀 Profile Visitor Count & Reactions
 
 <p align="center">
-  <a href="https://github.com/Kashish-Verma/Kashish-Verma"><img src="https://img.shields.io/badge/I%27m%20excited%20to%20be%20here!-😁-brightgreen?style=for-the-badge" alt="Excited Badge"></a>
-  <a href="https://github.com/Kashish-Verma/Kashish-Verma"><img src="https://img.shields.io/badge/I%27m%20inspired!-🌟-yellow?style=for-the-badge" alt="Inspired Badge"></a>
-  <a href="https://github.com/Kashish-Verma/Kashish-Verma"><img src="https://img.shields.io/badge/I%27m%20just%20browsing-👀-blue?style=for-the-badge" alt="Browsing Badge"></a>
-  <a href="https://github.com/Kashish-Verma/Kashish-Verma"><img src="https://img.shields.io/badge/I%20love%20this!%20-❤️-red?style=for-the-badge" alt="Love Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=Kashish-Verma&color=brightgreen&style=flat-square" alt="Profile Visitor Counter"/>
 </p>
+
 
 ---
 
