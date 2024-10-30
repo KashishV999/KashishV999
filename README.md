@@ -45,7 +45,6 @@
 
 ---
 
----
 
 ## 📚Library Management System
 
@@ -74,8 +73,29 @@
 
 
 
-### 🎶 MelodyMix - Music Web App
-Unleash your inner DJ with **MelodyMix**, a dynamic music app built using **HTML, CSS, and JavaScript**. This web app lets you explore artist albums and play songs with a single click. Want to add a new artist? Fill out the form, and voila—it’s added to the mix! It’s like a virtual concert, minus the ticket prices and bad acoustics. 🎤🎧
+## 🎶 Featured Project: MelodyMix - Music Web App
+
+<div align="center">
+  <table style="width: 80%; border: 2px solid #FF6F61; border-radius: 10px; padding: 20px;">
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/musical-notes.png" width="80" height="80" alt="Music Icon"/>
+      </td>
+      <td>
+        <h2 style="color: #FF6F61; font-weight: bold;">MelodyMix: Music Web App</h2>
+        <p style="text-align: justify; font-size: 16px;">
+          Unleash your inner DJ with <strong>MelodyMix</strong>, a dynamic music app built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. This web app lets you explore artist albums and play songs with a single click. Want to add a new artist? Fill out the form, and voila—it’s added to the mix! It’s like a virtual concert, minus the ticket prices and bad acoustics. 🎤🎧
+        </p>
+        <p align="center">
+          <a href="https://github.com/KashishV999/Music_WebApp" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/View%20Project-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
