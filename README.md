@@ -1,34 +1,49 @@
-# 👋 Hi there! I'm Kashish Verma
+<!--
+*Kashish-Verma/Kashish-Verma* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+-->
 
-🌱 I’m a a computer science student with a passion for coding and problem-solving. I believe technology is a powerful tool for creativity, and I love transforming ideas into functional solutions.  I thrive on challenges that push me to think outside the box. My journey has taken me through various programming languages and frameworks, each adding a new brushstroke to my skill set.
+<div align="center">
+  
+## Kashish Verma
 
-## 🔧 Technologies & Tools
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5C9EF7&width=500&lines=Computer+Science+Student;Aspiring+Software+Developer;OOP+and+C%2B%2B+Enthusiast;Web+and+Software+Tester" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🚀 Featured Projects
+<p>  
+👋 Hi, I'm Kashish Verma!  
+I'm a Computer Programming/Analysis student with a 4.0 GPA at Seneca Polytechnic. Passionate about coding, I love creating efficient and innovative solutions in software and web development. I have solid experience with C++, JavaScript, SQL, and I enjoy working with tools like Git and Jira for streamlined project management.
+</p>
 
-### 📚 Library Management System
-Ever thought managing a library was as easy as pie? Well, I built a C++ library system that makes it almost that easy (no baking required)! Using Object-Oriented principles, I crafted a slick command-line interface that helps manage publications and books like a pro librarian. With file handling for persistent storage, you won’t lose track of your favorite reads! So whether you're returning a book, checking out the latest bestsellers, or keeping an eye on due dates, this system has got your back!
+<p>  
+Throughout my journey, I’ve built applications like **SmartLib**, a Library Management System, and **MelodyMix**, a dynamic music app. I also optimized truck delivery routes using the A* algorithm in a C++ testing project, achieving a 95% bug detection rate and a 20% reduction in post-deployment issues.
+</p>
 
-### 🎶 Music Web App
-Imagine a web app where you can unleash your inner DJ—well, that’s what I built! Using HTML, CSS, and JavaScript, my dynamic web app showcases artist albums and lets you play songs with a simple click. Want to add a new artist? Just fill out the form, and watch the magic happen! It’s like a concert in your browser, minus the ticket fees and bad acoustics. 🎤🎧
+📫 **Connect with me**: Feel free to explore my projects here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/your-link).
 
-## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kashish-verma-b57b052a6/)
+---
 
-# 📊Github Stats:
-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KashishV999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🎉 Fun Facts
-- I could code in C++ all day long—who needs sleep when you have Object-Oriented programming?
-- I have a serious love for fictional books, especially those desi romantic novels that make you laugh, cry, and roll your eyes at the same time. It's a guilty pleasure I can’t resist—who knew fictional 
-   heartbreak could be so entertaining?
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kashish-Verma&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kashish-Verma&theme=nightowl&hide_border=false)
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=Kashish-Verma&label=Profile%20Views&color=6A5ACD&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
