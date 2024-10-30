@@ -45,7 +45,9 @@
 
 ---
 
-## 📚 Featured Project: Library Management System
+---
+
+## 📚Library Management System
 
 <div align="center">
   <table style="width: 80%; border: 2px solid #5C9EF7; border-radius: 10px; padding: 20px;">
@@ -59,8 +61,8 @@
           Managing a library can be as easy as pie—or at least close enough! Using <strong>C++</strong> and <strong>Object-Oriented principles</strong>, I developed <strong>SmartLib</strong>, a streamlined library management system with a command-line interface. From returns and loans to tracking due dates, this system manages publications and books with the simplicity of a professional librarian. With file handling for persistent storage, your library data is safe and secure, ready to keep track of all your favorite reads!
         </p>
         <p align="center">
-          <a href="https://github.com/Kashish-Verma/SmartLib" style="text-decoration: none;">
-            <img src="https://github.com/KashishV999/Library_Management_System.git" alt="View Project on GitHub"/>
+          <a href="https://github.com/KashishV999/Library_Management_System" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/View%20Project-5C9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub"/>
           </a>
         </p>
       </td>
@@ -69,6 +71,7 @@
 </div>
 
 ---
+
 
 
 ### 🎶 MelodyMix - Music Web App
