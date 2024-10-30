@@ -37,10 +37,9 @@ Unleash your inner DJ with **MelodyMix**, a dynamic music app built using **HTML
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Kashish-Verma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kashish-Verma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish-Verma&theme=dark&hide_border=false&layout=compact)
+# 📊Github Stats:
+- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KashishV999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
