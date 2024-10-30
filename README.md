@@ -1,6 +1,4 @@
-<!--
-*Kashish-Verma/Kashish-Verma* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
+<!-- Markdown Syntax -->
 <p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5C9EF7&width=500&lines=Computer+Science+Student;Aspiring+Software+Developer;OOP+and+C%2B%2B+Enthusiast;Web+and+Software+Tester" alt="Typing SVG" />
@@ -18,35 +16,47 @@
 ---
 
 ## 🔧 Technologies & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff) 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) 
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <span style="margin: 5px;">
+    ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+  </span>
+  <span style="margin: 5px;">
+    ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+  </span>
+  <span style="margin: 5px;">
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  </span>
+  <span style="margin: 5px;">
+    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+  </span>
+  <span style="margin: 5px;">
+    ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+  </span>
+  <span style="margin: 5px;">
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  </span>
+  <span style="margin: 5px;">
+    ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+  </span>
+  <span style="margin: 5px;">
+    ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+  </span>
+  <span style="margin: 5px;">
+    ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  </span>
+  <span style="margin: 5px;">
+    ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
+  </span>
+  <span style="margin: 5px;">
+    ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+  </span>
+</div>
 
 ---
 
-## 🌟 Quote of the Day
-
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?quote=Your%20code%20is%20always%205%20minutes%20away%20from%20compilation.&type=horizontal&theme=dark" alt="Readme Quote">
-  </a>
-</div>
-
-
 ## 🚀 Featured Projects
 
-
-
-## 📚Library Management System
-
+### 📚Library Management System
 <div align="center">
   <table style="width: 80%; border: 2px solid #5C9EF7; border-radius: 10px; padding: 20px;">
     <tr>
@@ -59,8 +69,8 @@
           Managing a library can be as easy as pie—or at least close enough! Using <strong>C++</strong> and <strong>Object-Oriented principles</strong>, I developed <strong>SmartLib</strong>, a streamlined library management system with a command-line interface. From returns and loans to tracking due dates, this system manages publications and books with the simplicity of a professional librarian. With file handling for persistent storage, your library data is safe and secure, ready to keep track of all your favorite reads!
         </p>
         <p align="center">
-          <a href="https://github.com/KashishV999/Library_Management_System" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/View%20Project-5C9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub"/>
+          <a href="https://github.com/KashishV999/Library_Management_System" style="text-decoration: none; background-color: #5C9EF7; color: white; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">
+            View Project
           </a>
         </p>
       </td>
@@ -70,10 +80,7 @@
 
 ---
 
-
-
-## 🎶MelodyMix - Music Web App
-
+### 🎶MelodyMix - Music Web App
 <div align="center">
   <table style="width: 80%; border: 2px solid #FF6F61; border-radius: 10px; padding: 20px;">
     <tr>
@@ -86,8 +93,8 @@
           Unleash your inner DJ with <strong>MelodyMix</strong>, a dynamic music app built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. This web app lets you explore artist albums and play songs with a single click. Want to add a new artist? Fill out the form, and voila—it’s added to the mix! It’s like a virtual concert, minus the ticket prices and bad acoustics. 🎤🎧
         </p>
         <p align="center">
-          <a href="https://github.com/KashishV999/Music_WebApp" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/View%20Project-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub"/>
+          <a href="https://github.com/KashishV999/Music_WebApp" style="text-decoration: none; background-color: #FF6F61; color: white; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">
+            View Project
           </a>
         </p>
       </td>
@@ -95,12 +102,13 @@
   </table>
 </div>
 
-
 ---
 
-# 📊Github Stats:
-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KashishV999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+## 📊 Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KashishV999&show_icons=true&theme=dark" alt="Kashish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashishV999&theme=dark&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
@@ -109,8 +117,6 @@
 - I'm a **fictional book lover**, especially desi romantic novels that make you laugh, cry, and occasionally roll your eyes. Fictional heartbreak is surprisingly entertaining—who knew?
 
 ---
-
-
 
 ## 📈 My Developer Journey
 
@@ -122,15 +128,9 @@
 
 ---
 
-
-
+## 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kashish-verma-b57b54239/)
+- [GitHub](https://github.com/KashishV999)
 
 ---
-
-
-
-
-## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kashish-verma-b57b052a6/)
-
 
