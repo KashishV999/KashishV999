@@ -40,8 +40,6 @@
   </a>
 </div>
 
----
-
 
 ## 🚀 Featured Projects
 
