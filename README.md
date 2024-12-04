@@ -143,4 +143,4 @@
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin
+- [LinkedIn](https://www.linkedin)
