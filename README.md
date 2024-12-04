@@ -42,8 +42,16 @@
 
 ---
 
-🧩 Lego Collection App
-<div align="center"> <table style="width: 80%; border: 2px solid #5C9EF7; border-radius: 10px; padding: 20px;"> <tr> <td align="center"> <img src="https://img.icons8.com/color/96/000000/lego.png" width="80" height="80" alt="Lego Icon"/> </td> <td> <h2 style="color: #5C9EF7; font-weight: bold;">Lego Collection App</h2> <p style="text-align: justify; font-size: 16px;"> Dive into the world of Lego with the **Lego Collection App**! This web application helps you manage and explore your Lego sets, organized by themes. Built using **Node.js**, **Express**, **React**, and **PostgreSQL**, the app allows you to easily browse your sets, add new collections, and search through your collection by theme. The sleek, **responsive design** built with **Tailwind CSS** makes it enjoyable to use on both desktop and mobile devices. Whether you’re tracking your collection or discovering new sets, this app makes it easy! </p> <p align="center"> <a href="https://github.com/KashishV999/Lego-Collection-App" style="text-decoration: none;"> <img src="https://img.shields.io/badge/View%20Project-5C9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub"/> </a> </p> </td> </tr> </table> </div>
+## 🧩 Lego Collection App
+
+A dynamic web application for managing and exploring your Lego collection. This app allows users to:
+- View Lego sets by themes
+- Add new sets to the collection
+- Enjoy a fully responsive and modern UI built with **Tailwind CSS**
+- Powered by **Node.js**, **Express**, and **PostgreSQL**
+
+Check out the app on [Vercel](https://web322-lovat.vercel.app/) or explore the [source code on GitHub](https://github.com/KashishV999/Lego-Collection-App).
+
 
 ---
 
