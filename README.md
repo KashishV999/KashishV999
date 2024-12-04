@@ -44,13 +44,29 @@
 
 ## 🧩 Lego Collection App
 
-A dynamic web application for managing and exploring your Lego collection. This app allows users to:
-- View Lego sets by themes
-- Add new sets to the collection
-- Enjoy a fully responsive and modern UI built with **Tailwind CSS**
-- Powered by **Node.js**, **Express**, and **PostgreSQL**
+<div align="center">
+  <table style="width: 80%; border: 2px solid #5C9EF7; border-radius: 10px; padding: 20px;">
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/lego.png" width="80" height="80" alt="Lego Icon"/>
+      </td>
+      <td>
+        <h2 style="color: #5C9EF7; font-weight: bold;">Lego Collection App</h2>
+        <p style="text-align: justify; font-size: 16px;">
+          The **Lego Collection App** helps you manage and explore your Lego sets. Built with **Node.js**, **Express**, **React**, and **PostgreSQL**, the app allows users to browse sets by themes, add new Lego sets, and manage their collection efficiently. Designed with a responsive interface using **Tailwind CSS**, the app offers a seamless experience on both desktop and mobile devices.
+        </p>
+        <p align="center">
+          <a href="https://github.com/KashishV999/Lego-Collection-App" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/View%20Project-5C9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-Check out the app on [Vercel](https://web322-lovat.vercel.app/) or explore the [source code on GitHub](https://github.com/KashishV999/Lego-Collection-App).
+---
+
 
 
 ---
