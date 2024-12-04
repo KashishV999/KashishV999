@@ -38,10 +38,34 @@
     <img src="https://quotes-github-readme.vercel.app/api?quote=Your%20code%20is%20always%205%20minutes%20away%20from%20compilation.&type=horizontal&theme=dark" alt="Readme Quote">
 </div>
 
-
 ## 🚀 Featured Projects
 
+---
 
+### 🧩 Lego Collection App
+
+<div align="center">
+  <table style="width: 80%; border: 2px solid #5C9EF7; border-radius: 10px; padding: 20px;">
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/lego.png" width="80" height="80" alt="Lego Icon"/>
+      </td>
+      <td>
+        <h2 style="color: #5C9EF7; font-weight: bold;">Lego Collection App</h2>
+        <p style="text-align: justify; font-size: 16px;">
+          Organize and explore your Lego collection effortlessly with this app. Built using **Node.js**, **Express**, **React**, and **PostgreSQL**, it allows users to browse, add, and manage Lego sets by themes. The app features a clean and responsive design with **Tailwind CSS**, ensuring a seamless experience across all devices.
+        </p>
+        <p align="center">
+          <a href="https://github.com/KashishV999/Lego-Collection-App" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/View%20Project-5C9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 📚Library Management System
 
@@ -68,9 +92,7 @@
 
 ---
 
-
-
-## 🎶MelodyMix - Music Web App
+### 🎶MelodyMix - Music Web App
 
 <div align="center">
   <table style="width: 80%; border: 2px solid #FF6F61; border-radius: 10px; padding: 20px;">
@@ -93,12 +115,10 @@
   </table>
 </div>
 
-
 ---
 
 # 📊Github Stats:
 - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KashishV999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 
@@ -107,8 +127,6 @@
 - I'm a **fictional book lover**, especially desi romantic novels that make you laugh, cry, and occasionally roll your eyes. Fictional heartbreak is surprisingly entertaining—who knew?
 
 ---
-
-
 
 ## 📈 My Developer Journey
 
@@ -120,14 +138,5 @@
 
 ---
 
-
-
-
----
-
-
-
-
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kashish-verma-b57b052a6/)
-
+- [LinkedIn](https://www.linkedin
