@@ -51,7 +51,7 @@
         <img src="https://img.icons8.com/color/96/000000/lego.png" width="80" height="80" alt="Lego Icon"/>
       </td>
       <td>
-        <h2 style="color: #5C9EF7; font-weight: bold;">Lego Collection App</h2>
+        <h2 style="color: #5C9EF8; font-weight: bold;">Lego Collection App</h2>
         <p style="text-align: justify; font-size: 16px;">
           The **Lego Collection App** helps you manage and explore your Lego sets. Built with **Node.js**, **Express**, **React**, and **PostgreSQL**, the app allows users to browse sets by themes, add new Lego sets, and manage their collection efficiently. Designed with a responsive interface using **Tailwind CSS**, the app offers a seamless experience on both desktop and mobile devices.
         </p>
