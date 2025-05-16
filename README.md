@@ -127,8 +127,8 @@
 ---
 
 ## 🎉 Fun Facts
-- I could code in **C++** all day long—who needs sleep when you have Object-Oriented programming?
-- I'm a **fictional book lover**, especially desi romantic novels that make you laugh, cry, and occasionally roll your eyes. Fictional heartbreak is surprisingly entertaining—who knew?
+- I could code in **C++** all day long who needs sleep when you have Object-Oriented programming?
+- I'm a **fictional book lover**, especially romantic novels that make you laugh, cry, and occasionally roll your eyes. Fictional heartbreak is surprisingly entertaining who knew?
 
 ---
 
