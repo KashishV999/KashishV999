@@ -132,15 +132,5 @@
 
 ---
 
-## 📈 My Developer Journey
-
-| Year | Milestone |
-|------|-----------|
-| **2023** | Started my Computer Science journey and fell in love with **C++ and OOP**. |
-| **2024** | Built my first web app, **MelodyMix**, enhancing my skills in **JavaScript** and **HTML/CSS**. |
-| **2024** | Developed **SmartLib** and explored **software testing** techniques through real-world projects. |
-
----
-
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kashish-verma-b57b052a6/)
