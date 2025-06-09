@@ -42,6 +42,40 @@
 
 ---
 
+
+---
+
+### 🐾 WhiskerHaven - Cat Adoption Website
+
+<div align="center">
+  <table style="width: 80%; border: 2px solid #5C9EF7; border-radius: 10px; padding: 20px;">
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/cat.png" width="80" height="80" alt="Cat Icon"/>
+      </td>
+      <td>
+        <h2 style="color: #5C9EF7; font-weight: bold;">WhiskerHaven: Cat Adoption Website</h2>
+        <p style="text-align: justify; font-size: 16px;">
+         A full-stack pet adoption platform featuring <strong>RBAC</strong>, <strong>Google Maps integration</strong>, and <strong>Reddit-style nested comments</strong>. Built <strong>Node.js</strong>, and <strong>MongoDB</strong>, this project showcases secure authentication (including social login), real-time analytics dashboards, and Stripe payment integration for donations. The admin panel provides comprehensive shelter and user management capabilities.
+        </p>
+        <p align="center">
+          <a href="https://whisker-way.vercel.app/cats" target="_blank" rel="noopener" style="text-decoration: none; margin-right: 10px;">
+            <img src="https://img.shields.io/badge/Live%20Demo-5C9EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+          </a>
+          <a href="https://github.com/KashishV999/WhiskerHaven" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/View%20Code-5C9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+---
+
+
 ## 🧩 Lego Collection App
 
 <div align="center">
