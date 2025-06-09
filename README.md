@@ -7,15 +7,14 @@
   </a>
 </p>
 
+
 <div align="center">
 
 # 👋 Hi there! I'm Kashish Verma
 
-🌱 I’m a second-year **Computer Science** student with a passion for coding, problem-solving, and a knack for creativity. I believe technology is a powerful tool, and I love transforming ideas into functional, impactful solutions. My journey has taken me through various programming languages and frameworks, each adding a new brushstroke to my skill set. Whether it’s building a software solution, optimizing processes, or managing data, I thrive on challenges that push me to think outside the box.
+🌱 I’m a second-year **Computer Science** student with a passion for coding, problem-solving, and a knack for creativity. I believe technology is a powerful tool, and I love transforming ideas into functional, impactful solutions. My journey has taken me through various programming languages and frameworks, each adding a new brushstroke to my skill set. Whether it’s building a software solution, optimizing processes, or managing data, I thrive on challenges that push me to think outside the box.  
 
 </div>
-
----
 
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff) 
@@ -162,4 +161,5 @@
 ---
 
 ## 🤝 Connect with Me
+- [Portfolio](https://www.kashishverma.com)
 - [LinkedIn](https://www.linkedin.com/in/kashish-verma-b57b052a6/)
