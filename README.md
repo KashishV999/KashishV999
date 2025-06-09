@@ -43,8 +43,6 @@
 ---
 
 
----
-
 ### 🐾 WhiskerHaven - Cat Adoption Website
 
 <div align="center">
@@ -89,6 +87,9 @@
           The Lego Collection App helps you manage and explore your Lego sets. Built with <strong>Node.js</strong>, <strong>Express</strong>,<strong>PostgreSQL + Sequelize ORM</strong>, the app allows users to browse sets by themes, add new Lego sets, and manage their collection efficiently. Designed with a responsive interface using Tailwind CSS, the app offers a seamless experience on both desktop and mobile devices.
         </p>
         <p align="center">
+          <a href="https://web322-lovat.vercel.app" target="_blank" rel="noopener" style="text-decoration: none; margin-right: 10px;">
+            <img src="https://img.shields.io/badge/Live%20Demo-5C9EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+          </a>
           <a href="https://github.com/KashishV999/Lego-Collection-App" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/View%20Project-5C9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Project on GitHub"/>
           </a>
@@ -97,10 +98,6 @@
     </tr>
   </table>
 </div>
-
-
----
-
 
 
 ---
