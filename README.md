@@ -42,7 +42,7 @@
 ---
 
 
-### 🐾 WhiskerHaven - AI-POWERED CAT ADOPTION PLATFORM
+### 🐾 WhiskerHaven
 
 <div align="center">
   <table style="width: 80%; border: 2px solid #5C9EF7; border-radius: 10px; padding: 20px;">
@@ -51,7 +51,7 @@
         <img src="https://img.icons8.com/color/96/000000/cat.png" width="80" height="80" alt="Cat Icon"/>
       </td>
       <td>
-        <h2 style="color: #5C9EF7; font-weight: bold;">WhiskerHaven: Cat Adoption Website</h2>
+        <h2 style="color: #5C9EF7; font-weight: bold;">WhiskerHaven - AI-POWERED CAT ADOPTION PLATFORM</h2>
         <p style="text-align: justify; font-size: 16px;">
          A multi-modal AI adoption assistant combining OpenAI's GPT-3.5 with MongoDB vector search to understand natural language queries and recommend perfect feline matches. Features multi-language support, intent classification, and vibe-based matching for faster adoptions.
         </p>
