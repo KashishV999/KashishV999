@@ -53,7 +53,7 @@
       <td>
         <h2 style="color: #5C9EF7; font-weight: bold;">WhiskerHaven - AI-POWERED CAT ADOPTION PLATFORM</h2>
         <p style="text-align: justify; font-size: 16px;">
-         A multi-modal AI adoption assistant combining OpenAI's GPT-3.5 with MongoDB vector search to understand natural language queries and recommend perfect feline matches. Features multi-language support, intent classification, and vibe-based matching for faster adoptions.
+AI-driven cat adoption platform leveraging OpenAI GPT-3.5 and MongoDB Atlas Vector Search for semantic pet matching. Features secure JWT/OAuth authentication, shelter and user management, real-time analytics dashboards, Reddit-style nested comments, and media handling via Cloudinary. Fully integrated with Stripe for payments and Nodemailer for email notifications. Built with a responsive Tailwind CSS frontend delivering an intuitive user experience.
         </p>
         <p align="center">
           <a href="https://whisker-way.vercel.app/cats" target="_blank" rel="noopener" style="text-decoration: none; margin-right: 10px;">
