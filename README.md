@@ -42,7 +42,7 @@
 ---
 
 
-### 🐾 WhiskerHaven - Cat Adoption Website
+### 🐾 WhiskerHaven - AI-POWERED CAT ADOPTION PLATFORM
 
 <div align="center">
   <table style="width: 80%; border: 2px solid #5C9EF7; border-radius: 10px; padding: 20px;">
