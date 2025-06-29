@@ -12,7 +12,7 @@
 
 # 👋 Hi there! I'm Kashish Verma
 
-🌱 I’m a second-year **Computer Science** student with a passion for coding, problem-solving, and a knack for creativity. I believe technology is a powerful tool, and I love transforming ideas into functional, impactful solutions. My journey has taken me through various programming languages and frameworks, each adding a new brushstroke to my skill set. Whether it’s building a software solution, optimizing processes, or managing data, I thrive on challenges that push me to think outside the box.  
+🌱 I’m a third year **Computer Science** student with a passion for coding, problem-solving, and a knack for creativity. I believe technology is a powerful tool, and I love transforming ideas into functional, impactful solutions. My journey has taken me through various programming languages and frameworks, each adding a new brushstroke to my skill set. Whether it’s building a software solution, optimizing processes, or managing data, I thrive on challenges that push me to think outside the box.  
 
 </div>
 
