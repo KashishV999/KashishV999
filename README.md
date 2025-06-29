@@ -15,7 +15,7 @@
 
 - 💻 Full-stack developer passionate about building scalable, efficient, and user-friendly apps  
 - 🧠 Currently diving deep into AI especially LLMs, LangGraphs, and GenAI tools  
-- 🐱 Recently built WhiskersHaven, an AI-powered cat adoption platform with GPT and vector search  
+- 🐱 Recently built WhiskersHaven, an AI-powered cat adoption platform leveraging Retrieval-Augmented Generation (RAG) using OpenAI GPT-3.5 and MongoDB Atlas Vector Search 
 - 🚀 Next up: real-time collaboration apps using WebSockets and event-driven architecture  
 - ✍️ I love writing about tech and share insights on [my blog](https://www.kashishverma.com/blog)  
 - 📚 When not coding, I’m into reading fiction, cooking, and discovering great food  
