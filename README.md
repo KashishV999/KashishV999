@@ -11,7 +11,7 @@
 <div align="center">
 
 # 👋 Hi there! I'm Kashish Verma
-
+</div>
 - 💻 Full-stack developer passionate about building scalable, efficient, and user-friendly apps  
 - 🧠 Currently diving deep into AI especially LLMs, LangGraphs, and GenAI tools  
 - 🐱 Recently built WhiskersHaven, an AI-powered cat adoption platform with GPT and vector search  
@@ -19,7 +19,7 @@
 - ✍️ I love writing about tech and share insights on [my blog](https://www.kashishverma.com/blog)  
 - 📚 When not coding, I’m into reading fiction, cooking, and discovering great food  
 
-</div>
+
 
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff) 
