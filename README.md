@@ -160,16 +160,6 @@ A multi-modal AI adoption assistant leveraging Retrieval-Augmented Generation (R
 
 ---
 
-# 📊Github Stats:
-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KashishV999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🎉 Fun Facts
-- I could code in **C++** all day long who needs sleep when you have Object-Oriented programming?
-- I'm a **fictional book lover**, especially romantic novels that make you laugh, cry, and occasionally roll your eyes. Fictional heartbreak is surprisingly entertaining who knew?
-
----
 
 ## 🤝 Connect with Me
 - [Portfolio](https://www.kashishverma.com)
