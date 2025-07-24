@@ -14,7 +14,7 @@
 </div>
 
 - 💻 Full-stack developer passionate about building scalable, efficient, and user-friendly apps  
-- 🧠 Currently diving deep into AI—especially LLMs, LangGraphs, and GenAI tools  
+- 🧠 Currently diving deep into AI especially LLMs, LangGraphs, and GenAI tools  
 - 🤖 Fine-tuned a BERT model for sentiment analysis and published it on [Hugging Face 🤗](https://huggingface.co/Kash123aa/sentiment-bert)  
 - 🐱 Built WhiskersHaven, an AI-powered cat adoption platform leveraging Retrieval-Augmented Generation (RAG) using OpenAI GPT-3.5 and MongoDB Atlas Vector Search and deployed [WhiskerBot](https://whisker-way.vercel.app/chatbot) 
 - ✍️ I love writing about tech and share insights on [my blog](https://www.kashishverma.com/blog)  
